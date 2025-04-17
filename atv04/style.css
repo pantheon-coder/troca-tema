@@ -1,0 +1,17 @@
+body {
+    background-color: orangered;
+}
+
+#header {
+    background-color: white;
+    height: auto;
+    width: 90%;
+    max-width: 1500px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.576);
+}
+
+p, h1{
+    text-align: center;
+}
